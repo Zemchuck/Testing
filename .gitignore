@@ -99,4 +99,6 @@ docs/_build/
 Thumbs.db
 *.log
 *.tmp
-LAB_INSTRUCTIONS.ipynb
+
+# ignore a specific lab notebook
+LAB_INSTRUCTION.ipynb
